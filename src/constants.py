@@ -1,0 +1,1 @@
+NAVBAR_COLOR = "#987d61"
